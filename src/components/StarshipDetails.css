@@ -1,0 +1,31 @@
+
+h1 {
+    color: #113e70;
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+a {
+    color: #0066c0;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.back-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: #0066c0;
+    border-radius: 5px;
+    margin-left: 45%;
+}
+
+.back-button:hover {
+    background-color: #004a8d;
+}
